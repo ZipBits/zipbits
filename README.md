@@ -1,2 +1,2 @@
 # zipbits
-GitHub for open-sourced cryptocurrency ZipBits (ZB)
+This is the GitHub project for the open-source cryptocurrency ZipBits (ZB).
